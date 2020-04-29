@@ -1,1 +1,1 @@
-# Trafic-Sign-Classification
+# A Comparison of Classification models for Traffic Signs
